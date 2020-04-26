@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.ultimatetols.flappybird"
+    versionCode = "10"
+    version     = "1.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Flappy Bird</name>
+
+  <description>
+      First App.
+  </description>
+
+  <author email="ultimatetols@gmail.com">
+      Ultimate Tols
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
